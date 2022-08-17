@@ -11,5 +11,6 @@ export default createSchema({
 
   types: schemaTypes.concat([
     user, comment, pin, save, postedBy
+    
   ]),
 })
